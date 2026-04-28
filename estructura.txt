@@ -1,0 +1,3 @@
+# Estructura del sistema Base Esperanza
+
+Este archivo describe la estructura general del sistema Base Esperanza.
